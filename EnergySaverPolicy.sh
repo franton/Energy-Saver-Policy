@@ -2,7 +2,7 @@
 
 # Script to set energy saving settings as per a chosen preset
 
-# Author      : r.purves@arts.ac.uk
+# Author      : contact@richard-purves.com
 # Version 1.0 : 30-10-2012 - Initial Version
 # Version 1.1 : 1-11-2012 - Implemented specific site policies
 # Version 1.2 : 28-11-2012 - Implemented CS site policy
