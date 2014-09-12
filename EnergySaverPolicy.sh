@@ -25,18 +25,6 @@
 /usr/bin/pmset -a autorestart 1
 /usr/bin/pmset -a powerbutton 0
 
-# As of 18-01-2013, the profiles are for:
-# Profile 1: CCW Laptops
-# Profile 2: CCW Wired
-# Profile 3: CS Laptops
-# Profile 4: CS Wired
-# Profile 5: CSM Laptops
-# Profile 6: CSM Wired
-# Profile 7: LCC Laptops
-# Profile 8: LCC Wired
-# Profile 9: LCF Laptops
-# Profile 10: LCF Wired
-
 # Set case variable from parameter 4
 
 EnergySaverChoice=$4
